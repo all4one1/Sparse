@@ -362,3 +362,5 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /Sparse.sln
+/Sparse.vcxitems.filters
+/Sparse.vcxitems
